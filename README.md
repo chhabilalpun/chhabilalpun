@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Chhabilal Pun Magar
 
-<!--
-**chhabilalpun/chhabilalpun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm in the phase of Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
+I build responsive, scalable, and user-centric web applications with a strong focus on UI/UX design and performance.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Tools:** Git, GitHub, Postman, VS Code  
+- **Deployment:** Vercel, Netlify, Heroku  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build dynamic single-page applications with React  
+- Design RESTful APIs with Express and Node  
+- Integrate MongoDB for flexible data storage  
+- Optimize UI/UX with animations, transitions, and responsive layouts  
+
+## 🌟 Featured Projects
+- **Movie Booking App** – Full-stack ticket booking with auth and admin dashboard  
+- **E-Commerce Platform** – MERN-based store with cart, payment gateway, and product management  
+- **Tic Tac Toe Game** – React-based game with clean UI and state management  
+
+## 📫 Let's Connect
+- Linkedin:https://www.linkedin.com/in/chhabilal-pun-magar/ 
+- Email: chhabilalpun2002@gmail.com  
+- [Portfolio](https://my-portfolio-one-sooty-14.vercel.app)
