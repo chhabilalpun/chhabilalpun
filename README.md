@@ -3,25 +3,26 @@
 I'm in the phase of Full-Stack Developer specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).  
 I build responsive, scalable, and user-centric web applications with a strong focus on UI/UX design and performance.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Mongoose  
 - **Tools:** Git, GitHub, Postman, VS Code  
 - **Deployment:** Vercel, Netlify, Heroku  
 
-## 🚀 What I Do
+## What I Do
 - Build dynamic single-page applications with React  
 - Design RESTful APIs with Express and Node  
 - Integrate MongoDB for flexible data storage  
 - Optimize UI/UX with animations, transitions, and responsive layouts  
 
-## 🌟 Featured Projects
+## Featured Projects
 - **Movie Booking App** – Full-stack ticket booking with auth and admin dashboard  
 - **E-Commerce Platform** – MERN-based store with cart, payment gateway, and product management  
 - **Tic Tac Toe Game** – React-based game with clean UI and state management  
 
-## 📫 Let's Connect
+## Let's Connect
 - Linkedin:https://www.linkedin.com/in/chhabilal-pun-magar/ 
 - Email: chhabilalpun2002@gmail.com  
-- [Portfolio](https://my-portfolio-one-sooty-14.vercel.app)
+- X(or twitter): https://x.com/chhabilalpm07
+- Bluesky: https://bsky.app/profile/chhabilalpunmagar.bsky.social
