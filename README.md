@@ -26,3 +26,6 @@ I build responsive, scalable, and user-centric web applications with a strong fo
 - Email: chhabilalpun2002@gmail.com  
 - X(or twitter): https://x.com/chhabilalpm07
 - Bluesky: https://bsky.app/profile/chhabilalpunmagar.bsky.social
+
+## 📊 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=chhabilal-pun-magar&color=00d1ff&style=flat-square&label=PROFILE+VIEWS)
