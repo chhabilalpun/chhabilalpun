@@ -27,5 +27,26 @@ I build responsive, scalable, and user-centric web applications with a strong fo
 - X(or twitter): https://x.com/chhabilalpm07
 - Bluesky: https://bsky.app/profile/chhabilalpunmagar.bsky.social
 
+---
+
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/chhabilalpm07)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhabilal-pun-magar/)
+[![Website](https://img.shields.io/badge/WEBSITE-EB7132?style=for-the-badge&logo=firefox-browser&logoColor=white)](YOUR_WEBSITE_URL)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhabilalpun2002@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00DBFF?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=chhabilal-pun-magar&color=00d1ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+### 💻 Terminal Interface
 ## 📊 Profile Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=chhabilal-pun-magar&color=00d1ff&style=flat-square&label=PROFILE+VIEWS)
