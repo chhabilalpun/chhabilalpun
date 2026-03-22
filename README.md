@@ -8,7 +8,7 @@ I build responsive, scalable, and user-centric web applications with a strong fo
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, Mongoose  
 - **Tools:** Git, GitHub, Postman, VS Code  
-- **Deployment:** Vercel, Netlify, Heroku  
+- **Deployment:** Vercel, Netlify, Render
 
 ##  What I Do
 - Build dynamic single-page applications with React  
