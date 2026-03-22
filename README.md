@@ -29,6 +29,8 @@ I build responsive, scalable, and user-centric web applications with a strong fo
 
 ---
 
+---
+
 <div align="center">
 
 ### 🌐 Connect With Me
@@ -39,11 +41,12 @@ I build responsive, scalable, and user-centric web applications with a strong fo
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhabilalpun2002@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00DBFF?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chhabilal-pun-magar&color=00d1ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
+---
 
+### 💻 Terminal Interface
