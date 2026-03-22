@@ -6,7 +6,7 @@ I build responsive, scalable, and user-centric web applications with a strong fo
 ##   Tech Stack
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
+- **Database:** MongoDB, PostgreSQL, MySQL 
 - **Tools:** Git, GitHub, Postman, VS Code  
 - **Deployment:** Vercel, Netlify, Render
 
